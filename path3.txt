@@ -1,0 +1,16 @@
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 02.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 03.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 04.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 05.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 06.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 07.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 08.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 10.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 11.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 12.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 14.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 15.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 16.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 17.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 18.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\wdx\wdxCal 19.csv

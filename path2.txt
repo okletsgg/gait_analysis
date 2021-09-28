@@ -1,0 +1,8 @@
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 02.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 04.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 06.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 07.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 08.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 09.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 10.csv
+E:\PythonProjects\pythonproject1\gait_analysis\data\tx\txCal 13.csv
